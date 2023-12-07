@@ -1,0 +1,67 @@
+\chapter{Tóm tắt lý thuyết}
+\section{Mô tả dao động}
+\subsection{Định nghĩa dao động cơ, dao động tuần hoàn và dao động điều hoà}
+\begin{itemize}
+	\item Dao động cơ là sự chuyển động qua lại quanh vị trí cân bằng.
+	\item Dao động tuần hoàn là dao động mà trạng thái chuyển động của vật được lặp lại như cũ sau những khoảng thời gian bằng nhau.
+	\item Dao động điều hoà là dao động tuần hoàn mà li độ của vật dao động là một hàm cosin (hoặc sin) theo thời gian.
+\end{itemize}
+\subsection{Chu kỳ, tần số, pha dao động, tần số góc}
+\begin{itemize}
+	\item Chu kì dao động là khoảng thời gian để vật thực hiện được một dao động:
+	$$T=\dfrac{\Delta t}{N}.$$
+	Trong đó $N$ là số dao động toàn phần thực hiện được trong khoảng thời gian $\Delta t$.\\
+	Trong hệ SI, chu kì có đơn vị là giây $\left(\si{\second}\right)$.
+	\item Tần số dao động là số dao động toàn phần mà vật thực hiện được trong một giây:
+	$$f=\dfrac{1}{T}=\dfrac{N}{\Delta t}.$$
+	Trong hệ SI, tần số có đơn vị là Hertz $\left(\si{\hertz}\right)$.
+	\item Pha dao động là đại lượng đặc trưng cho trạng thái của vật trong quá trình dao động.
+	\item Tần số góc của dao động là đại lượng đặc trưng cho tốc độ biến thiên của pha dao động. Đối với dao động điều hoà, tần số góc có giá trị không đổi và được xác định bằng:
+	$$\omega=\dfrac{\Delta\varphi}{\Delta t}=\dfrac{2\pi}{T}.$$
+	Trong hệ SI, tần số góc có đơn vị là radian trên giây $\left(\si{\radian/\second}\right)$.
+\end{itemize}
+\section{Phương trình dao động điều hoà}
+\subsection{Li độ}
+Phương trình li độ của vật dao động điều hoà:
+$$x=A\cos\left(\omega t+\varphi_0\right)$$
+Trong đó:
+\begin{itemize}
+	\item $x$: li độ dao động (toạ độ của vật mà gốc toạ độ được chọn trùng với VTCB), đơn vị trong hệ SI là mét $\left(\si{\meter}\right)$;
+	\item $A$: biên độ dao động (giá trị cực đại của li độ), đơn vị trong hệ SI là mét $\left(\si{\meter}\right)$;
+	\item $\omega$: tần số góc, đơn vị trong hệ SI là radian trên giây $\left(\si{\radian/\second}\right)$;
+	\item $\varphi_0$: pha ban đầu, đơn vị trong hệ SI là radian $\left(\si{\radian}\right)$.
+\end{itemize}
+\subsection{Phương trình vận tốc}
+$$v=-\omega A\sin\left(\omega t+\varphi_0\right)=\omega A\cos\left(\omega t+\varphi_0\right)$$
+\begin{itemize}
+	\item Vật ở VTCB $\left(x=0\right)$, vật đạt tốc độ cực đại: $v_\text{max}=\omega A$;
+	\item Vật ở vị trí biên $\left(x=\pm A\right)$, vật đạt tốc độ cực tiểu $v=0$.
+\end{itemize}
+\subsection{Gia tốc}
+$$a=-\omega^2A\cos\left(\omega t+\varphi_0\right)=-\omega^2x$$
+\begin{itemize}
+	\item Vật ở VTCB $\left(x=0\right)$: $a=0$;
+	\item Vật ở biên $\left(x=\pm A\right)$, gia tốc có độ lớn cực đại $\left|a\right|=\omega^2 A$
+	\begin{itemize}
+		\item Vật ở vị trí biên dương $\left(x=A\right)$, gia tốc cực tiểu: $a_\text{min}=-\omega^2A$;
+		\item Vật ở biên âm $\left(x=-A\right)$, gia tốc cực đại: $a_\text{max}=\omega^2 A$.
+	\end{itemize}
+\end{itemize}
+\section{Năng lượng trong dao động điều hoà}
+\begin{itemize}
+	\item Thế năng:
+	$$W_\text{t}=\dfrac{1}{2}Kx^2=\dfrac{1}{2}m\omega^2A^2\cos^2\left(\omega t+\varphi_0\right)$$
+	\item Động năng:
+	$$W_\text{đ}=\dfrac{1}{2}mv^2=\dfrac{1}{2}m\omega^2A^2\sin^2\left(\omega t+\varphi_0\right)$$
+	\item Cơ năng:
+	$$W=W_\text{t}+W_\text{đ}=\dfrac{1}{2}m\omega^2A^2$$
+\end{itemize}
+\section{Dao động tắt dần và hiện tượng cộng hưởng}
+\subsection{Dao động tắt dần}
+Dao động tắt dần là dao động có biên độ giảm dần theo thời gian.
+\subsection{Dao động cưỡng bức}
+Dao động của vật dưới tác dụng của ngoại lực điều hoà trong giai đoạn ổn định được gọi là dao động cưỡng bức. Ngoại lực điều hoà tác dụng vào vật khi này được gọi là lực cưỡng bức.\\
+\textit{Tần số góc của vật dao động cưỡng bức bằng tần số góc của ngoại lực cưỡng bức.}
+\subsection{Hiện tượng cộng hưởng}
+Hiện tượng cộng hưởng xảy ra khi tần số góc của lực cưỡng bức bằng tần số góc riêng của hệ dao động. Khi này, biên độ dao động cưỡng bức của hệ đạt giá trị cực đại $A_\text{max}$.\\
+\textit{Tuỳ trường hợp mà hiện tượng cộng hưởng có thể có lợi hoặc có thể có hại.}

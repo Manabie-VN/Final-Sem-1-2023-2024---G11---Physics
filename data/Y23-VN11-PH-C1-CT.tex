@@ -1,0 +1,150 @@
+\chapter{Tóm tắt công thức}
+\section{Chu kì, tần số, tần số góc của vật dao động điều hoà}
+$$T=\dfrac{\Delta t}{N},\quad f=\dfrac{N}{\Delta t}=\dfrac{1}{T}, \quad \omega=\dfrac{\Delta \varphi}{\Delta t}=\dfrac{2\pi}{T}=2\pi f.$$
+\section{Phương trình dao động điều hoà}
+\subsection{Phương trình li độ}
+$$x=A\cos\left(\omega t+\varphi_0\right)$$
+\subsection{Phương trình vận tốc}
+$$v=-\omega A\sin\left(\omega t+\varphi_0\right)=\omega A\cos\left(\omega t+\varphi_0\right)$$
+$$v_\text{max}=\omega A$$
+\subsection{Phương trình gia tốc}
+$$a=-\omega^2A\cos\left(\omega t+\varphi_0\right)=-\omega^2x$$
+$$a_\text{max}=\omega^2A=\omega v_\text{max}$$
+\section{Quãng đường đi được}
+\begin{itemize}
+	\item Quãng đường đi được trong 1 chu kì dao động: $s=4A$,
+	\item Quãng đường đi được trong $N$ chu kì dao động: $s=N\cdot4A$,
+	\item Quãng đường đi được trong nửa chu kì dao động: $s=2A$,
+	\item Quãng đường cực đại/cực tiểu trong khoảng thời gian $\Delta t<\dfrac{T}{2}$:
+	$$s_\text{max}=2A\sin\dfrac{\omega \Delta t}{2}, \quad S_\text{min}=2A\left(1-\cos\dfrac{\omega \Delta t}{2}\right).$$
+\end{itemize}
+\section{Mối liên hệ giữa các đại lượng trong dao động điều hoà}
+\begin{itemize}
+	\item Vận tốc sớm pha $\xsi{\dfrac{\pi}{2}}{\radian}$ so với li độ:
+	$$\left(\dfrac{x}{A}\right)^2+\left(\dfrac{v}{v_\text{max}}\right)^2=1\Leftrightarrow x^2+\dfrac{v^2}{\omega^2}=A^2.$$
+	\item Gia tốc ngược pha với li độ:
+	$$a=-\omega^2x$$
+	\item Gia tốc sớm pha $\xsi{\dfrac{\pi}{2}}{\radian}$ so với vận tốc: 
+	$$\left(\dfrac{a}{a_\text{max}}\right)^2+\left(\dfrac{v}{v_\text{max}}\right)^2=1\Leftrightarrow \dfrac{v^2}{\omega^2}+\dfrac{a^2}{\omega^4}=A^2.$$
+\end{itemize}
+\section{Một số dao động điều hoà thường gặp}
+\subsection{Con lắc lò xo}
+\subsubsection{Chu kì, tần số, tần số góc}
+$$\omega=\sqrt{\dfrac{k}{m}},\quad T=2\pi\sqrt{\dfrac{m}{k}},\quad f=\dfrac{1}{2\pi}\sqrt{\dfrac{k}{m}}$$
+\subsubsection{Năng lượng dao động}
+\begin{align*}
+	W_\text{t}&=\dfrac{1}{2}kx^2=\dfrac{1}{2}m\omega^2x^2=\dfrac{1}{2}m\omega^2A^2\cos^2\left(\omega t+\varphi_0\right)\\
+	W_\text{đ}&=\dfrac{1}{2}mv^2=\dfrac{1}{2}m\omega^2A^2\sin^2\left(\omega t+\varphi_0\right)\\
+	W&=W_\text{t}+W_\text{đ}=\dfrac{1}{2}m\omega^2A^2
+\end{align*}
+\subsubsection{Lực đàn hồi và lực kéo về}
+$$F_\text{đh}=-k\Delta\ell,\quad F_\text{kv}=-kx$$
+\subsubsection{Chiều dài lò xo}
+Chọn gốc toạ độ tại vị trí cân bằng của vật nặng, chiều dương cùng chiều lò xo dãn.
+\begin{itemize}
+	\item \textbf{\textit{Con lắc lò xo nằm ngang}}
+	\begin{itemize}
+		\item Ở VTCB lò xo không biến dạng: $\Delta\ell_0=0$;
+		\item Ở vị trí li độ $x$, độ biến dạng của lò xo: $\Delta\ell=x$;
+		\item Chiều dài lò xo:
+		\begin{align*}
+			\ell=\ell_0+x\Rightarrow
+			\begin{cases}
+				\ell_\text{max}=\ell_0+A\\
+				\ell_\text{min}=\ell_0-A
+			\end{cases}
+		\Rightarrow 
+		\begin{cases}
+			\ell_0=\dfrac{\ell_\text{max}-\ell_\text{min}}{2}\\
+			A=\dfrac{\ell_\text{max}-\ell_\text{min}}{2}
+		\end{cases}
+		\end{align*}
+		\item Độ lớn lực đàn hồi:\\
+		$$F_\text{đh max}=kA\ \text{(vật ở biên)}, \quad F_\text{đh min}=0\ \text{(vật ở VTCB)}.$$
+	\end{itemize}
+\item \textbf{\textit{Con lắc lò xo treo thẳng đứng}}
+\begin{itemize}
+	\item Ở VTCB lò xo bị dãn: $\Delta\ell_0=\dfrac{mg}{k}$;
+	\item Ở vị trí li độ $x$, độ biến dạng của lò xo: $\Delta\ell=\Delta\ell_0+x$;
+	\item Chiều dài lò xo: $$, $$;
+	\begin{align*}
+		\begin{cases}
+			\ell_\text{CB}=\ell_0+\Delta\ell_0\\
+			\ell=\ell_\text{CB}+x
+		\end{cases}
+		\Rightarrow
+		\begin{cases}
+			\ell_\text{max}=\ell_\text{CB}+A\\
+			\ell_\text{min}=\ell_\text{CB}-A
+		\end{cases}
+		\Rightarrow 
+		\begin{cases}
+			\ell_\text{CB}=\frac{\ell_\text{max}-\ell_\text{min}}{2}\\
+			A=\frac{\ell_\text{max}-\ell_\text{min}}{2}
+		\end{cases}
+	\end{align*}
+	\item Tần số góc, chu kì, tần số: 
+	$$\omega=\sqrt{\dfrac{g}{\Delta \ell_0}}, \quad T=2\pi\sqrt{\dfrac{\Delta\ell_0}{g}},\quad f=\dfrac{1}{2\pi}\sqrt{\dfrac{g}{\Delta\ell_0}}$$
+	\item Độ lớn lực đàn hồi:
+	\begin{align*}
+		F_\text{đh max}&=k\left(A+\Delta\ell_0\right)\ \text{(vật ở biên dương)}\\
+		F_\text{đh min}&=0\ \text{(nếu $A>\Delta\ell_0$ và vật ở vị trí lò xo không biến dạng)}\\
+		F_\text{đh min}&=k\left(A-\Delta\ell_0\right)\ \text{(nếu $A<\Delta\ell_0$ và vật ở biên âm)}
+	\end{align*}
+\end{itemize}
+\end{itemize}
+\subsection{Con lắc đơn}
+\textit{Nếu biên độ góc $\theta_0>\SI{10}{\degree}$ con lắc dao động tuần hoàn. Nếu $\theta_0\le\SI{10}{\degree}$, con lắc dao động điều hoà.}
+\subsubsection{Chu kì, tần số, tần số góc}
+$$\omega=\sqrt{\dfrac{g}{\ell}}, \quad T=2\pi\sqrt{\dfrac{\ell}{g}}, \quad f=\dfrac{1}{2\pi}\sqrt{\dfrac{g}{\ell}}$$
+\subsubsection{Phương trình dao động}
+$$\theta=\theta_0\cos\left(\omega t+\varphi_0\right), \quad s=A\cos\left(\omega t+\varphi_0\right)$$
+với $A=\theta_0\ell$ và $s=\theta\ell$.
+\subsubsection{Lực kéo về}
+$$F_\text{kv}=-mg\sin\theta=-mg\theta=-mg\dfrac{s}{\ell}$$
+với $\theta\le\SI{10}{\degree}$
+\subsubsection{Năng lượng dao động}
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+\newcolumntype{N}{@{}m{0pt}@{}}
+\begin{tabular}{|M{18em}|M{18em}|N}
+	\hline
+	 \thead{Góc lớn $\left(\theta_0>\SI{10}{\degree}\right)$}&\thead{Góc bé $\left(\theta_0\le\SI{10}{\degree}\right)$} &\\[10pt]
+	\hline
+	$W_\text{t}=mg\ell\left(1-\cos\theta\right)$ & $W_\text{t}=\dfrac{1}{2}mg\ell\theta^2$&\\[10pt]
+	\hline
+	$W_\text{đ}=\dfrac{1}{2}mv^2=mg\ell\left(\cos\theta-\cos\theta_0\right)$ & $W_\text{đ}=\dfrac{1}{2}mv^2=\dfrac{1}{2}mg\ell\left(\theta^2_0-\theta^2\right)$&\\[10pt]
+	\hline
+	$W=mg\ell\left(1-\cos\theta_0\right)$ & $W=\dfrac{1}{2}mg\ell\theta^2_0$ &\\[10pt]
+	\hline
+\end{tabular}
+\subsubsection{Lực căng dây và tốc độ}
+Lực căng dây treo tại vị trí có li độ góc $\theta$:
+$$T=mg\left(3\cos\theta-2\cos\theta_0\right)$$
+$$T_\text{max}=T_\text{VTCB}=mg\left(3-2\cos\theta_0\right); \quad T_\text{min}=T_\text{biên}=mg\cos\theta_0$$
+Tốc độ của vật nặng:
+$$v=\sqrt{2g\ell\left(\cos\theta-\cos\theta_0\right)}$$
+$$v_\text{max}=v_\text{VTCB}=\sqrt{2g\ell\left(1-\cos\theta_0\right)}$$
+\section{Dao động tắt dần và hiện tượng cộng hưởng}
+\subsection{Năng lượng tiêu hao trong dao động tắt dần}
+Nếu sau mỗi chu kì biên độ còn lại $\xsi{\alpha}{\percent}$ thì
+\begin{itemize}
+	\item Biên độ còn lại sau $N$ chu kì dao động:
+	$$A_N=\left(\xsi{\alpha}{\percent}\right)^NA$$
+	\item Cơ năng còn lại sau $N$ chu kì:
+	$$W_N=\left(\xsi{\alpha}{\percent}\right)^{2N}W.$$
+\end{itemize}
+\subsection{Điều kiện xảy ra cộng hưởng}
+Hiện tượng cộng hưởng xảy ra khi tần số ngoại lực cưỡng bức $f$ bằng tần số dao động riêng của hệ:
+$$f=f_0$$
+\subsection{Dao động tắt dần của con lắc lò xo có ma sát trên mặt phẳng ngang}
+\begin{itemize}
+	\item Độ giảm biên đọ sau mỗi nửa chu kì: $\Delta A_{0,5T}=\dfrac{2\mu mg}{k}$,
+	\item Độ giảm biên độ sau 1 chu kì: $\Delta A=\dfrac{4\mu mg}{k}$,
+	\item Tổng số dao động toàn phần thực hiện được:
+	$$N=\dfrac{A}{\Delta A}=\dfrac{kA}{4\mu mg}=\dfrac{\omega^2A}{4\mu g},$$
+	\item Tổng quãng đường từ lúc bắt đầu dao động dến khi dừng hẳn:
+	$$\dfrac{1}{2}kA^2=F_{ms}s\Rightarrow s=\dfrac{kA^2}{2\mu mg}=\dfrac{\omega^2A^2}{2\mu g},$$
+	\item Tốc độ cực đại:
+	$$v_\text{max}=\omega\left(A-\dfrac{\mu mg}{k}\right).$$
+\end{itemize}
+

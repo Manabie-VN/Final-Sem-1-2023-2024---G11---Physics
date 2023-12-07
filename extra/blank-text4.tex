@@ -1,0 +1,120 @@
+% --- tạo đường kẻ chấm 
+	\newcommand{\dhorline}[2]{\hbox to #1{\leaders\hbox to 0.5em{\hss . \hss}\hfil}}
+	
+% --- chừa chỗ trống tương ứng trong câu 
+	
+	\newlength\rulegoal
+	\newlength\drule
+	\setlength{\drule}{0.5em}
+	\newcommand\breakableruleaux[2]{%
+		\ifdim\rulegoal>\drule\relax%
+		\dhorline{\drule}{#2}\allowbreak%
+		\def\next{\breakableruleaux{#1}{#2}}%
+		\else
+		\dhorline{\rulegoal}{#2}%
+		\def\next{}%
+		\fi 
+		\addtolength{\rulegoal}{-\drule}%
+		\next%
+	}
+	
+	\newcommand\breakablerule[2]{\setlength{\rulegoal}{#1}\breakableruleaux{#1}{#2}}
+	
+	\newlength{\myblanklength}
+	\renewcommand{\bltext}[1]
+	{
+		~\hspace*{-7.5pt}\relax
+		\settowidth{\myblanklength}{#1}
+		\breakablerule{\the\myblanklength*\real{1}}{0.2pt}
+	}
+	
+	\renewcommand{\xtrule}{\hspace*{-5pt}\dhorline{1cm}{0.2pt}~}
+	
+% --- % che công thức trên dòng riêng:
+\renewcommand{\phantomeqn}[1]{
+	%		\phantomline[b]{1} % dòng trắng
+	\phantomline[d]{1} % dòng kẻ chấm
+	%		\phantomline[l]{1} % dòng kẻ liền
+}
+
+% che đoạn văn bản 
+	
+	\renewcommand{\hide}[2][b]{
+		\ifx b#1 \blankhide{#2} \else
+		\ifx d#1 \dotshide{#2} \else
+		\ifx l#1 \lineshide{#2}
+		\fi\fi\fi 
+	}
+
+% che bài giải tất cả ví dụ 
+%\usetikzlibrary{decorations.shapes}
+%	\tikzset{
+
+%		decoration = {shape backgrounds, shape=circle,
+
+%			shape size=0.25pt, shape sep=2pt},
+
+%		paint/.style = {decorate, fill=black}
+
+%		}% tạo dạng dots 
+
+	\renewcommand{\vidu}[3] % -- không đánh số, có lời giải 
+		{
+			%\vspace{0.3cm}
+			\needspace{4\baselineskip}
+			\noindent\textbf{Ví dụ\quad\mkstar{#1}}
+			\begin{flushright}
+				\leavevmode\vspace{-15pt}
+				\begin{tcolorbox}[
+					standard jigsaw
+					,opacityback=0
+					,opacityframe=0
+					,width=0.95\textwidth
+					,breakable
+					,right=-4pt,top=-4pt,left=-4pt
+					,colframe=white
+					,colback=white
+					,before upper={\parindent15pt}
+					]
+				
+					{#2}
+				\end{tcolorbox}
+			
+				
+					%\hide{#3}
+			
+				
+			\end{flushright}	
+		}
+	
+	\renewcommand{\viduii}[3] % có đánh số, có lời giải 
+		{
+			%\vspace{0.3cm}
+			\refstepcounter{viduii}
+			\needspace{4\baselineskip}
+			\noindent\textbf{Ví dụ \theviduii\quad\mkstar{#1}}
+			\begin{flushright}
+				\leavevmode\vspace{-15pt}
+				\begin{tcolorbox}[
+					standard jigsaw
+					,opacityback=0
+					,opacityframe=0
+					,width=0.95\textwidth
+					,breakable
+					,right=-4pt,top=-4pt,left=-4pt
+					,colframe=white
+					,colback=white
+					,before upper={\parindent15pt}
+					]
+					
+					
+					{#2}
+				\end{tcolorbox}
+					%\begin{center}
+					%	\textbf{Giải:}
+					%\end{center}
+					%\hide{#3}
+			\end{flushright}	
+		}
+%--- new hide
+\renewcommand{\hides}[1]{}
