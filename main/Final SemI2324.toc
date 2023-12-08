@@ -1,5 +1,4 @@
 \contentsline {mychapter}{\numberline {1}DAO ĐỘNG}{3}{mychapter.1.1}%
-\ttl@starttoc {mychapters@1}
 \contentsline {chapter}{\numberline {1}Tóm tắt lý thuyết}{4}{chapter.1}%
 \contentsline {section}{\numberline { 1 }Mô tả dao động}{4}{section.1.1}%
 \contentsline {subsection}{\numberline { 1 \!\!.1 }Định nghĩa dao động cơ, dao động tuần hoàn và dao động điều hoà}{4}{subsection.1.1.1}%
@@ -38,10 +37,7 @@
 \contentsline {subsection}{\numberline { 6 \!\!.2 }Điều kiện xảy ra cộng hưởng}{10}{subsection.2.6.2}%
 \contentsline {subsection}{\numberline { 6 \!\!.3 }Dao động tắt dần của con lắc lò xo có ma sát trên mặt phẳng ngang}{11}{subsection.2.6.3}%
 \contentsline {chapter}{\numberline {3}Câu hỏi ôn tập}{12}{chapter.3}%
-\ttl@stoptoc {mychapters@1}
 \contentsline {mychapter}{\numberline {2}SÓNG}{16}{mychapter.1.2}%
-\ttl@stoptoc {mychapters@1}
-\ttl@starttoc {mychapters@2}
 \contentsline {chapter}{\numberline {4}Tóm tắt lý thuyết}{17}{chapter.4}%
 \contentsline {section}{\numberline { 1 }Sóng và sự truyền sóng}{17}{section.4.1}%
 \contentsline {section}{\numberline { 2 }Các đặc trưng vật lí của sóng}{17}{section.4.2}%
@@ -66,5 +62,4 @@
 \contentsline {subsubsection}{Sóng dừng hai đầu cố định}{22}{subsubsection*.11}%
 \contentsline {subsubsection}{Sóng dừng 1 đầu cố định và 1 đầu tự do}{23}{subsubsection*.12}%
 \contentsline {chapter}{\numberline {6}Câu hỏi ôn tập}{24}{chapter.6}%
-\ttl@stoptoc {mychapters@2}
 \contentsfinish 

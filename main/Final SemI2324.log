@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  7 DEC 2023 22:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  8 DEC 2023 10:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1929,55 +1929,14 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into
 your preamble.
  on input line 5.
 
-(../data/Y23-VN11-PH-C1-CT.tex
-Ch\uhorn \ohorn ng 1.
-LaTeX Font Info:    Trying to load font information for OT1+txr on input line 3
-.
-(c:/texlive/2022/texmf-dist/tex/latex/txfonts/ot1txr.fd
-File: ot1txr.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 3.
+(./Final SemI2324.toc)
+\tf@toc=\write7
+\openout7 = `"Final SemI2324.toc"'.
 
-
-(c:/texlive/2022/texmf-dist/tex/latex/wasysym/uwasy.fd
-File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
-)
-LaTeX Font Info:    Trying to load font information for U+txsya on input line 3
-.
-
-(c:/texlive/2022/texmf-dist/tex/latex/txfonts/utxsya.fd
-File: utxsya.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Trying to load font information for U+txsyb on input line 3
-.
-
-(c:/texlive/2022/texmf-dist/tex/latex/txfonts/utxsyb.fd
-File: utxsyb.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 3
-.
-
-(c:/texlive/2022/texmf-dist/tex/latex/txfonts/utxmia.fd
-File: utxmia.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 3
-.
-
-(c:/texlive/2022/texmf-dist/tex/latex/txfonts/utxsyc.fd
-File: utxsyc.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-5.
-
-(c:/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-Underfull \vbox (badness 1596) has occurred while \output is active []
-
-<../extra/Logo.png, id=71, 1606.0pt x 402.50375pt>
+<../extra/Logo.png, id=167, 1606.0pt x 402.50375pt>
 File: ../extra/Logo.png Graphic file (type png)
 <use ../extra/Logo.png>
-Package pdftex.def Info: ../extra/Logo.png  used on input line 24.
+Package pdftex.def Info: ../extra/Logo.png  used on input line 7.
 (pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
  [1
 
@@ -1986,10 +1945,106 @@ Package pdftex.def Info: ../extra/Logo.png  used on input line 24.
 ng>]
 File: ../extra/Logo.png Graphic file (type png)
 <use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 7.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+ [2
+
+]
+
+Package hyperref Warning: bookmark level for unknown mychapter defaults to 0.
+
+\c@ttl@toc@mychapters=\count426
+(./Final SemI2324.ptc)
+<../figs/11C1.jpg, id=188, 147.4308pt x 94.9146pt>
+File: ../figs/11C1.jpg Graphic file (type jpg)
+<use ../figs/11C1.jpg>
+Package pdftex.def Info: ../figs/11C1.jpg  used on input line 30.
+(pdftex.def)             Requested size: 221.14565pt x 142.37152pt.
+ (../data/Y23-VN11-PH-C1-LT.tex
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 1.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+ [3
+
+ <../figs/11C1.jpg>]
+Ch\uhorn \ohorn ng 1.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 5
+.
+(c:/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 1
+2.
+
+(c:/texlive/2022/texmf-dist/tex/latex/txfonts/ot1txr.fd
+File: ot1txr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 12
+.
+
+(c:/texlive/2022/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 1
+2.
+
+(c:/texlive/2022/texmf-dist/tex/latex/txfonts/utxsya.fd
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 1
+2.
+
+(c:/texlive/2022/texmf-dist/tex/latex/txfonts/utxsyb.fd
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 1
+2.
+
+(c:/texlive/2022/texmf-dist/tex/latex/txfonts/utxmia.fd
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 1
+2.
+
+(c:/texlive/2022/texmf-dist/tex/latex/txfonts/utxsyc.fd
+File: utxsyc.fd 2000/12/15 v3.1
+)
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 30.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+ [4
+
+])
+(../data/Y23-VN11-PH-C1-CT.tex
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 1.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+ [5]
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 1.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+ [6]
+Ch\uhorn \ohorn ng 2.
+
+Underfull \vbox (badness 1596) has occurred while \output is active []
+
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 24.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+ [7
+
+]
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
 Package pdftex.def Info: ../extra/Logo.png  used on input line 61.
 (pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
 
-[2]
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
@@ -1998,36 +2053,1047 @@ File: ../extra/Logo.png Graphic file (type png)
 <use ../extra/Logo.png>
 Package pdftex.def Info: ../extra/Logo.png  used on input line 104.
 (pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
-[3]
+[9]
 File: ../extra/Logo.png Graphic file (type png)
 <use ../extra/Logo.png>
 Package pdftex.def Info: ../extra/Logo.png  used on input line 142.
 (pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
- [4])
-File: ../extra/Logo.png Graphic file (type png)
-<use ../extra/Logo.png>
-Package pdftex.def Info: ../extra/Logo.png  used on input line 37.
-(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
- [5]
-
-Package hyperref Warning: bookmark level for unknown mychapter defaults to 0.
-
-\c@ttl@toc@mychapters=\count426
-(./Final SemI2324.ptc)
-<../figs/11C2.png, id=126, 737.75626pt x 368.577pt>
-File: ../figs/11C2.png Graphic file (type png)
-<use ../figs/11C2.png>
-Package pdftex.def Info: ../figs/11C2.png  used on input line 41.
-(pdftex.def)             Requested size: 455.24408pt x 227.43555pt.
- (../data/Y23-VN11-PH-C2-LT.tex
+ [10]) (../data/Y23-VN11-PH-C1-Q.tex
 File: ../extra/Logo.png Graphic file (type png)
 <use ../extra/Logo.png>
 Package pdftex.def Info: ../extra/Logo.png  used on input line 1.
 (pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
- [6
+ [11]
+Ch\uhorn \ohorn ng 3.
+
+Package tasks Warning: The width of `label-width' is too small on line 21.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 21--21
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 21.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 21--21
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 21.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 21--21
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 21.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 21--21
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 32.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 32--32
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 32.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 32--32
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 32.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 32--32
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 32.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 32--32
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 43.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 43--43
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 43.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 43--43
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 43.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 43--43
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 43.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 43--43
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 54.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 54--54
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 54.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 54--54
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 54.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 54--54
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 54.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 54--54
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 65.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 65--65
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 65.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 65--65
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 65.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 65--65
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 65.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 65--65
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 76.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 76--76
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 76.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 76--76
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 76.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 76--76
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 76.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 76--76
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 87.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 87--87
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 87.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 87--87
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 87.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 87--87
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 87.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 87--87
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 98.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 98--98
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 98.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 98--98
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 98.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 98--98
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 98.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 98--98
+\T5/ptm/b/n/10.95 D.
+ []
+
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 111.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+[12
+
+]
+
+Package tasks Warning: The width of `label-width' is too small on line 111.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (7.4141pt too wide) in paragraph at lines 111--111
+[]|$\OT1/txr/m/n/10.95 3[]95 \OMS/txsy/m/n/10.95 ^^A \OT1/txr/m/n/10.95 10[] N\
+OML/txmi/m/it/10.95 =\OT1/txr/m/n/10.95 m$\T5/ptm/m/n/10.95 .| 
+ []
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 111--111
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 111.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (7.4141pt too wide) in paragraph at lines 111--111
+|$\OT1/txr/m/n/10.95 4[]25 \OMS/txsy/m/n/10.95 ^^A \OT1/txr/m/n/10.95 10[] N\OM
+L/txmi/m/it/10.95 =\OT1/txr/m/n/10.95 m$\T5/ptm/m/n/10.95 .| 
+ []
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 111--111
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 111.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (7.4141pt too wide) in paragraph at lines 111--111
+|$\OT1/txr/m/n/10.95 6[]85 \OMS/txsy/m/n/10.95 ^^A \OT1/txr/m/n/10.95 10[] N\OM
+L/txmi/m/it/10.95 =\OT1/txr/m/n/10.95 m$\T5/ptm/m/n/10.95 .| 
+ []
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 111--111
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 111.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (7.4141pt too wide) in paragraph at lines 111--111
+|$\OT1/txr/m/n/10.95 5[]26 \OMS/txsy/m/n/10.95 ^^A \OT1/txr/m/n/10.95 10[] N\OM
+L/txmi/m/it/10.95 =\OT1/txr/m/n/10.95 m$\T5/ptm/m/n/10.95 .| 
+ []
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 111--111
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 124.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 124--124
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 124.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 124--124
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 124.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 124--124
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 124.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 124--124
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 137.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 137--137
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 137.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (6.85913pt too wide) in paragraph at lines 137--137
+|$[]  []$\T5/ptm/m/n/10.95 .| 
+ []
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 137--137
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 137.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 137--137
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 137.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 137--137
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 147.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 147--147
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 147.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (17.69106pt too wide) in paragraph at lines 147--147
+|$[]\OML/txmi/m/it/10.95 m![] []$\T5/ptm/m/n/10.95 .| 
+ []
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 147--147
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 147.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 147--147
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 147.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 147--147
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 158.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 158--158
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 158.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 158--158
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 158.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 158--158
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 158.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 158--158
+\T5/ptm/b/n/10.95 D.
+ []
+
+<../figs/C1-Q-4.png, id=300, 149.358pt x 112.62074pt>
+File: ../figs/C1-Q-4.png Graphic file (type png)
+<use ../figs/C1-Q-4.png>
+Package pdftex.def Info: ../figs/C1-Q-4.png  used on input line 166.
+(pdftex.def)             Requested size: 171.14499pt x 129.05916pt.
+
+Package tasks Warning: The width of `label-width' is too small on line 173.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 173--173
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 173.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 173--173
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 173.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 173--173
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 173.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 173--173
+\T5/ptm/b/n/10.95 D.
+ []
+
+<../figs/C1-Q-1.png, id=301, 133.6995pt x 75.8835pt>
+File: ../figs/C1-Q-1.png Graphic file (type png)
+<use ../figs/C1-Q-1.png>
+Package pdftex.def Info: ../figs/C1-Q-1.png  used on input line 181.
+(pdftex.def)             Requested size: 128.362pt x 72.86005pt.
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 182.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+[13 <../figs/C1-Q-4.png>]
+
+Package tasks Warning: The width of `label-width' is too small on line 188.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 188--188
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 188.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 188--188
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 188.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 188--188
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 188.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 188--188
+\T5/ptm/b/n/10.95 D.
+ []
+
+<../figs/C1-Q-2.png, id=344, 171.64125pt x 112.62074pt>
+File: ../figs/C1-Q-2.png Graphic file (type png)
+<use ../figs/C1-Q-2.png>
+Package pdftex.def Info: ../figs/C1-Q-2.png  used on input line 198.
+(pdftex.def)             Requested size: 171.14499pt x 112.29395pt.
+
+Package tasks Warning: The width of `label-width' is too small on line 205.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 205--205
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 205.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 205--205
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 205.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 205--205
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 205.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 205--205
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 216.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 216--216
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 216.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 216--216
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 216.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 216--216
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 216.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 216--216
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 231.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (13.2678pt too wide) in paragraph at lines 231--231
+[]|$\OML/txmi/m/it/10.95 v \OT1/txr/m/n/10.95 = 25[]12 []\OML/txmi/m/it/10.95 =
+\OT1/txr/m/n/10.95 s$\T5/ptm/m/n/10.95 .| 
+ []
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 231--231
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 231.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (20.232pt too wide) in paragraph at lines 231--231
+|$\OML/txmi/m/it/10.95 v \OT1/txr/m/n/10.95 = \OMS/txsy/m/n/10.95 ^^F\OT1/txr/m
+/n/10.95 25[]12 []\OML/txmi/m/it/10.95 =\OT1/txr/m/n/10.95 s$\T5/ptm/m/n/10.95 
+.| 
+ []
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 231--231
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 231.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (20.232pt too wide) in paragraph at lines 231--231
+|$\OML/txmi/m/it/10.95 v \OT1/txr/m/n/10.95 = \OMS/txsy/m/n/10.95 ^^F\OT1/txr/m
+/n/10.95 12[]56 []\OML/txmi/m/it/10.95 =\OT1/txr/m/n/10.95 s$\T5/ptm/m/n/10.95 
+.| 
+ []
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 231--231
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 231.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (13.2678pt too wide) in paragraph at lines 231--231
+|$\OML/txmi/m/it/10.95 v \OT1/txr/m/n/10.95 = 12[]56 []\OML/txmi/m/it/10.95 =\O
+T1/txr/m/n/10.95 s$\T5/ptm/m/n/10.95 .| 
+ []
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 231--231
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 244.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 244--244
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 244.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 244--244
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 244.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 244--244
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 244.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 244--244
+\T5/ptm/b/n/10.95 D.
+ []
+
+<../figs/C1-Q-3.png, id=345, 178.266pt x 109.6095pt>
+File: ../figs/C1-Q-3.png Graphic file (type png)
+<use ../figs/C1-Q-3.png>
+Package pdftex.def Info: ../figs/C1-Q-3.png  used on input line 253.
+(pdftex.def)             Requested size: 171.14499pt x 105.23895pt.
+
+Package tasks Warning: The width of `label-width' is too small on line 260.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 260--260
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 260.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 260--260
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 260.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 260--260
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 260.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 260--260
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 275.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 275--275
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 275.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 275--275
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 275.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 275--275
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 275.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 275--275
+\T5/ptm/b/n/10.95 D.
+ []
+
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 275.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+[14 <../figs/C1-Q-1.png> <../figs/C1-Q-2.png> <../figs/C1-Q-3.png>]
+<../figs/C1-Q-5.png, id=379, 173.448pt x 130.68825pt>
+File: ../figs/C1-Q-5.png Graphic file (type png)
+<use ../figs/C1-Q-5.png>
+Package pdftex.def Info: ../figs/C1-Q-5.png  used on input line 286.
+(pdftex.def)             Requested size: 171.14499pt x 128.95898pt.
+
+
+Package tasks Warning: The width of `label-width' is too small on line 293.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 293--293
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 293.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 293--293
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 293.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 293--293
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 293.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 293--293
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 320.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 320--320
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 320.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 320--320
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 320.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 320--320
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 320.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 320--320
+\T5/ptm/b/n/10.95 D.
+ []
+
+<../figs/C1-Q-6.png, id=380, 210.7875pt x 148.75575pt>
+File: ../figs/C1-Q-6.png Graphic file (type png)
+<use ../figs/C1-Q-6.png>
+Package pdftex.def Info: ../figs/C1-Q-6.png  used on input line 332.
+(pdftex.def)             Requested size: 171.14499pt x 120.78201pt.
+
+Package tasks Warning: The width of `label-width' is too small on line 339.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 339--339
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 339.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 339--339
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 339.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 339--339
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 339.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 339--339
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 354.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 354--354
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 354.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 354--354
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 354.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 354--354
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 354.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 354--354
+\T5/ptm/b/n/10.95 D.
+ []
+
+)
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 37.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+ [15 <../figs/C1-Q-5.png> <../figs/C1-Q-6.png>] (./Final SemI2324.ptc)
+<../figs/11C2.png, id=422, 737.75626pt x 368.577pt>
+File: ../figs/11C2.png Graphic file (type png)
+<use ../figs/11C2.png>
+Package pdftex.def Info: ../figs/11C2.png  used on input line 41.
+(pdftex.def)             Requested size: 455.24408pt x 227.43555pt.
+
+(../data/Y23-VN11-PH-C2-LT.tex
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 1.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+ [16
 
  <../figs/11C2.png>]
-Ch\uhorn \ohorn ng 2.
+Ch\uhorn \ohorn ng 4.
 LaTeX Font Info:    Freeze math alphabet allocation in version normal.
 (Font)              Allocated math groups: 15 (local: 2) on input line 19.
 LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
@@ -2818,19 +3884,19 @@ File: ../extra/Logo.png Graphic file (type png)
 <use ../extra/Logo.png>
 Package pdftex.def Info: ../extra/Logo.png  used on input line 87.
 (pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
-[7
+[17
 
 ]
 File: ../extra/Logo.png Graphic file (type png)
 <use ../extra/Logo.png>
 Package pdftex.def Info: ../extra/Logo.png  used on input line 87.
 (pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
- [8]
+ [18]
 File: ../extra/Logo.png Graphic file (type png)
 <use ../extra/Logo.png>
 Package pdftex.def Info: ../extra/Logo.png  used on input line 95.
 (pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
- [9]
+ [19]
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 102.
 ) (../data/Y23-VN11-PH-C2-CT.tex
@@ -2838,8 +3904,8 @@ File: ../extra/Logo.png Graphic file (type png)
 <use ../extra/Logo.png>
 Package pdftex.def Info: ../extra/Logo.png  used on input line 1.
 (pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
- [10]
-Ch\uhorn \ohorn ng 3.
+ [20]
+Ch\uhorn \ohorn ng 5.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 4.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
@@ -2862,34 +3928,1254 @@ LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 16.
 LaTeX Font Info:    No math alphabet change to frozen version normal on input l
 ine 17.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 22.
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 23.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+[21
+
+]
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 23.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 28.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 29.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 33.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 36.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 36.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 37.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 37.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 38.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 38.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 39.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 39.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 41.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 42.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 49.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 51.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 56.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 59.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 60.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 63.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 65.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 66.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 66.
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 67.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+ [22]
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 70.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 73.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 74.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 77.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 79.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 80.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 80.
+) (../data/Y23-VN11-PH-C2-Q.tex
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 1.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+ [23]
+Ch\uhorn \ohorn ng 6.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 15.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 15.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 15.
+
+Package tasks Warning: The width of `label-width' is too small on line 21.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 21.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 21--21
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 21.
+(tasks)                Please set it at least to 10.04112pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 21.
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 21--21
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 21.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 21.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 21--21
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 21.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 21.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 21--21
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 32.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 32--32
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 32.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 32--32
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 32.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 32--32
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 32.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 32--32
+\T5/ptm/b/n/10.95 D.
+ []
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 39.
+
+Package tasks Warning: The width of `label-width' is too small on line 45.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 45--45
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 45.
+(tasks)                Please set it at least to 10.04112pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 45.
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 45--45
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 45.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 45--45
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 45.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (8.32704pt too wide) in paragraph at lines 45--45
+|\T5/ptm/m/n/10.95 tia hçng ngo¤i.| 
+ []
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 45--45
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 57.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 57--57
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 57.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 57--57
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 57.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 57--57
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 57.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 57--57
+\T5/ptm/b/n/10.95 D.
+ []
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 62.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 62.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 62.
+
+Package tasks Warning: The width of `label-width' is too small on line 68.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 68.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 68--68
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 68.
+(tasks)                Please set it at least to 10.04112pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 68.
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 68--68
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 68.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 68.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 68--68
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 68.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 68.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 68--68
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 79.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 79--79
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 79.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 79--79
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 79.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 79--79
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 79.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 79--79
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 90.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 90--90
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 90.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 90--90
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 90.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 90--90
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 90.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 90--90
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 102.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 102--102
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 102.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 102--102
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 102.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (1.45355pt too wide) in paragraph at lines 102--102
+|\T5/ptm/m/n/10.95 s³ dao ^^_ëng t¤i ché theo ph÷ìng th¯ng
+ []
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 102--102
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 102.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 102--102
+\T5/ptm/b/n/10.95 D.
+ []
+
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 102.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+[24
+
+]
+
+Package tasks Warning: The width of `label-width' is too small on line 113.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 113--113
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 113.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 113--113
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 113.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 113--113
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 113.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 113--113
+\T5/ptm/b/n/10.95 D.
+ []
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 119.
+
+Package tasks Warning: The width of `label-width' is too small on line 125.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 125.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 125--125
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 125.
+(tasks)                Please set it at least to 10.04112pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 125.
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 125--125
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 125.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 125.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 125--125
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 125.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 125.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 125--125
+\T5/ptm/b/n/10.95 D.
+ []
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 131.
+
+Package tasks Warning: The width of `label-width' is too small on line 137.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 137.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 137--137
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 137.
+(tasks)                Please set it at least to 10.04112pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 137.
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 137--137
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 137.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 137.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 137--137
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 137.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 137.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 137--137
+\T5/ptm/b/n/10.95 D.
+ []
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 143.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 143.
+
+Package tasks Warning: The width of `label-width' is too small on line 149.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 149--149
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 149.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 149--149
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 149.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 149--149
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 149.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 149--149
+\T5/ptm/b/n/10.95 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 162.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 162--162
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 162.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 162--162
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 162.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 162--162
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 162.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 162--162
+\T5/ptm/b/n/10.95 D.
+ []
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 168.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 168.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 168.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 168.
+
+Package tasks Warning: The width of `label-width' is too small on line 174.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 174.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 174--174
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 174.
+(tasks)                Please set it at least to 10.04112pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 174.
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 174--174
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 174.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 174.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 174--174
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 174.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 174.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 174--174
+\T5/ptm/b/n/10.95 D.
+ []
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 180.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 180.
+
+Package tasks Warning: The width of `label-width' is too small on line 186.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 186.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 186--186
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 186.
+(tasks)                Please set it at least to 10.04112pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 186.
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 186--186
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 186.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 186.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 186--186
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 186.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 186.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 186--186
+\T5/ptm/b/n/10.95 D.
+ []
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 192.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 192.
+
+Package tasks Warning: The width of `label-width' is too small on line 198.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 198.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 198--198
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 198.
+(tasks)                Please set it at least to 10.04112pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 198.
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 198--198
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 198.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 198.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 198--198
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 198.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 198.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 198--198
+\T5/ptm/b/n/10.95 D.
+ []
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 206.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 206.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 206.
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 212.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+[25]
+
+Package tasks Warning: The width of `label-width' is too small on line 212.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 212--212
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 212.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 212--212
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 212.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 212--212
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 212.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 212--212
+\T5/ptm/b/n/10.95 D.
+ []
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 217.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 217.
+
+Package tasks Warning: The width of `label-width' is too small on line 223.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 223.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 223--223
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 223.
+(tasks)                Please set it at least to 10.04112pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 223.
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 223--223
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 223.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 223.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 223--223
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 223.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 223.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 223--223
+\T5/ptm/b/n/10.95 D.
+ []
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 228.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 228.
+
+Package tasks Warning: The width of `label-width' is too small on line 234.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 234.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 234--234
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 234.
+(tasks)                Please set it at least to 10.04112pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 234.
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 234--234
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 234.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 234.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 234--234
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 234.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 234.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 234--234
+\T5/ptm/b/n/10.95 D.
+ []
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 239.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 239.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 239.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 239.
+
+Package tasks Warning: The width of `label-width' is too small on line 245.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 245.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 245--245
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 245.
+(tasks)                Please set it at least to 10.04112pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 245.
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 245--245
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 245.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 245.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 245--245
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 245.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 245.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 245--245
+\T5/ptm/b/n/10.95 D.
+ []
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 251.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 251.
+<../figs/Y23-VN11-PH-C2-Q-1.png, id=558, 142.131pt x 77.088pt>
+File: ../figs/Y23-VN11-PH-C2-Q-1.png Graphic file (type png)
+<use ../figs/Y23-VN11-PH-C2-Q-1.png>
+Package pdftex.def Info: ../figs/Y23-VN11-PH-C2-Q-1.png  used on input line 253
+.
+(pdftex.def)             Requested size: 128.362pt x 69.62202pt.
+
+Package tasks Warning: The width of `label-width' is too small on line 260.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 260.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 260--260
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 260.
+(tasks)                Please set it at least to 10.04112pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 260.
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 260--260
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 260.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 260.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 260--260
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 260.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 260.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 260--260
+\T5/ptm/b/n/10.95 D.
+ []
+
+<../figs/Y23-VN11-PH-C2-Q-2.png, id=559, 148.1535pt x 69.861pt>
+File: ../figs/Y23-VN11-PH-C2-Q-2.png Graphic file (type png)
+<use ../figs/Y23-VN11-PH-C2-Q-2.png>
+Package pdftex.def Info: ../figs/Y23-VN11-PH-C2-Q-2.png  used on input line 267
+.
+(pdftex.def)             Requested size: 128.362pt x 60.53337pt.
+
+Package tasks Warning: The width of `label-width' is too small on line 274.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 274--274
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 274.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 274--274
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 274.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 274--274
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 274.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 274--274
+\T5/ptm/b/n/10.95 D.
+ []
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 279.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 279.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 279.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 279.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 279.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 279.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 279.
+
+Package tasks Warning: The width of `label-width' is too small on line 285.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 285--285
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 285.
+(tasks)                Please set it at least to 10.04112pt.
+
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 285--285
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 285.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 285--285
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 285.
+(tasks)                Please set it at least to 10.64339pt.
+
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 285--285
+\T5/ptm/b/n/10.95 D.
+ []
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 293.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 293.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 293.
+File: ../extra/Logo.png Graphic file (type png)
+<use ../extra/Logo.png>
+Package pdftex.def Info: ../extra/Logo.png  used on input line 299.
+(pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
+[26 <../figs/Y23-VN11-PH-C2-Q-1.png> <../figs/Y23-VN11-PH-C2-Q-2.png>]
+
+Package tasks Warning: The width of `label-width' is too small on line 299.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 299.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 299--299
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 299.
+(tasks)                Please set it at least to 10.04112pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 299.
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 299--299
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 299.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 299.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 299--299
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 299.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 299.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 299--299
+\T5/ptm/b/n/10.95 D.
+ []
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 306.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 306.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 306.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 306.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 306.
+
+Package tasks Warning: The width of `label-width' is too small on line 312.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 312.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 312.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 312--312
+\T5/ptm/b/n/10.95 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 312.
+(tasks)                Please set it at least to 10.04112pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 312.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 312.
+
+Overfull \hbox (0.18614pt too wide) in paragraph at lines 312--312
+\T5/ptm/b/n/10.95 B.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 312.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 312.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 312.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 312--312
+\T5/ptm/b/n/10.95 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 312.
+(tasks)                Please set it at least to 10.64339pt.
+
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 312.
+LaTeX Font Info:    No math alphabet change to frozen version normal on input l
+ine 312.
+
+Overfull \hbox (0.7884pt too wide) in paragraph at lines 312--312
+\T5/ptm/b/n/10.95 D.
+ []
+
 )
-\tf@ptc=\write7
-\openout7 = `"Final SemI2324.ptc"'.
+\tf@ptc=\write8
+\openout8 = `"Final SemI2324.ptc"'.
 
 File: ../extra/Logo.png Graphic file (type png)
 <use ../extra/Logo.png>
 Package pdftex.def Info: ../extra/Logo.png  used on input line 63.
 (pdftex.def)             Requested size: 48.17792pt x 12.07458pt.
- [11
-
-] (./Final SemI2324.aux)
-
-Package rerunfilecheck Warning: File `"Final SemI2324".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Final SemI2324".out':
-(rerunfilecheck)             Before: 69C91585E64B4006B7BAB30C4AC77E62;1017
-(rerunfilecheck)             After:  636290BD89F41ECFB800DB36DE8CDCC0;3541.
+ [27] (./Final SemI2324.aux)
+Package rerunfilecheck Info: File `"Final SemI2324".out' has not changed.
+(rerunfilecheck)             Checksum: 118F826DA8C0AFA6973F12140E6E0B0B;5265.
  ) 
 Here is how much of TeX's memory you used:
- 69071 strings out of 476064
- 1734270 string characters out of 5794900
- 2560594 words of memory out of 5000000
- 88341 multiletter control sequences out of 15000+600000
+ 69516 strings out of 476064
+ 1740304 string characters out of 5794900
+ 2562605 words of memory out of 5000000
+ 88470 multiletter control sequences out of 15000+600000
  576810 words of font info for 126 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 104i,22n,99p,1216b,1169s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104i,22n,99p,1216b,1404s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/vntex/t5.enc}{c:/texlive/2022/tex
 mf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/pub
 lic/txfonts/rtxmi.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/rt
@@ -2901,10 +5187,10 @@ dist/fonts/type1/vntex/urwvn/utmb8v.pfb><c:/texlive/2022/texmf-dist/fonts/type1
 ve/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb><c:/texlive/2022/texmf-dis
 t/fonts/type1/vntex/urwvn/utmri8v.pfb><c:/texlive/2022/texmf-dist/fonts/type1/p
 ublic/boondox/zxxrw8a.pfb>
-Output written on "Final SemI2324.pdf" (11 pages, 586894 bytes).
+Output written on "Final SemI2324.pdf" (27 pages, 800259 bytes).
 PDF statistics:
- 235 PDF objects out of 1000 (max. 8388607)
- 168 compressed objects within 2 object streams
- 52 named destinations out of 1000 (max. 500000)
- 223 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 745 PDF objects out of 1000 (max. 8388607)
+ 627 compressed objects within 7 object streams
+ 344 named destinations out of 1000 (max. 500000)
+ 428 words of extra memory for PDF output out of 10000 (max. 10000000)
 
